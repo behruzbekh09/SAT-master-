@@ -1,0 +1,12 @@
+{
+  "name": "SAT Master — Intensive Prep",
+  "short_name": "SAT Master",
+  "description": "16-week Digital SAT preparation companion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6fc",
+  "theme_color": "#101a36",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
